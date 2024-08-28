@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "question": "Do you actively recommend vaccination to your patients?",
+        "options": [
+            {"value":"q1option1","label":"Yes, all vaccines recommended by immunization guidelines."},
+            {"value":"q1option2","label":"Yes, but only certain vaccines."},
+            {"value":"q1option3","label":"Sometimes, depending on the patient’s medical condition."},
+            {"value":"q1option4","label":"No, I don’t."}
+        ]
+    },
+    {
+        "id": 2,
+        "question": "Apart from its cost,what would be your TWO(2) biggest considerations to recommend a vaccine in your practice?",
+        "options": [
+            {"value":"q2option1","label":"Severity of disease protected against."},
+            {"value":"q2option2","label":"Availability of local/regional data on disease burden."},
+            {"value":"q2option3","label":"Safety profile of the vaccine."},
+            {"value":"q2option4","label":"Logistics(e.g.:vaccine storage conditions,non-formulary item,etc.)."}
+        ]
+    },
+    {
+        "id": 3,
+        "question": "How often do you face vaccine hesitancy from your patients?",
+        "options": [
+            {"value":"q3option1","label":"<10%"},
+            {"value":"q3option2","label":"10-25%"},
+            {"value":"q3option3","label":"25-50%"},
+            {"value":"q3option4","label":">50%"}
+        ]
+    },
+    {
+        "id": 4,
+        "question": "How confident do you feel in recommending vaccination to your patients?",
+        "options": [
+            {"value":"q4option1","label":"Confident."},
+            {"value":"q4option2","label":"Somewhat confident."},
+            {"value":"q4option3","label":"It depends on the vaccine."}
+        ]
+    },
+    {
+        "id": 5,
+        "question": "Would you consider yourself familiar with mRNA vaccines?",
+        "options": [
+            {"value":"q5option1","label":"Yes, the current published data is enough to conclude its benefits & risks."},
+            {"value":"q5option2","label":"Yes, but we need more data to conclude its long-term safety."},
+            {"value":"q5option3","label":"No, I’m familiar with its technology, but haven’t kept up with its latest data."},
+            {"value":"q5option4","label":"No, I’m yet familiar with its technology."}
+        ]
+    }
+]
