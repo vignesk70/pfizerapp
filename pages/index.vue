@@ -1,8 +1,8 @@
 
 <template>
     <div>
-        <div class="relative w-full min-h-screen bg-[url('/images/1.png')] ">
-            <img class="" src="/images/Vaccine_Header.jpg" alt="">
+        <div class="relative w-full min-h-screen bg-[url('/images/1.png')] bg-cover">
+            <img class="w-full object-cover" src="/images/Vaccine_Header.jpg" alt="">
             <div class=" p-[100px] mx-auto justify-center items-center  ">
                 <p class=" text-white dark:text-white  font-opensans font-semibold text-7xl text-left ">Dear HCP,
                 </p>
